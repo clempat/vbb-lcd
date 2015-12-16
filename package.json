@@ -1,0 +1,17 @@
+{
+  "name": "vbb-lcd",
+  "version": "1.0.0",
+  "description": "Vbb next train on lcd rpi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "moment": "^2.10.6",
+    "request": "^2.67.0",
+    "vbb-hafas": "^0.5.0"
+  }
+}
